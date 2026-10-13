@@ -1,0 +1,31 @@
+tools/make-icon.swift
+  s_672bf47a4a7b77::t_904f018442d95f 1-76
+Info.plist
+  s_672bf47a4a7b77::t_65ab6a0bafb488 1-24
+README.md
+  s_672bf47a4a7b77::t_d968fa296a9fc0 1-72
+build.sh
+  s_672bf47a4a7b77::t_8c21d521d88321 1-12
+install.sh
+  s_672bf47a4a7b77::t_79ec834d4e0417 1-13
+main.swift
+  s_672bf47a4a7b77::t_0c4c32f25156f5 1-188
+.gitignore
+  s_672bf47a4a7b77::t_c60a4d4cafd726 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a4ccffa4b5e8528eed875607b395d3cd375602bf",
+  "prompts": {},
+  "sessions": {
+    "s_672bf47a4a7b77": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d147559-f688-40bf-ae33-099e0ebdb39f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Gaurav Jain <gaurav.j@saaffinance.com>"
+    }
+  }
+}
